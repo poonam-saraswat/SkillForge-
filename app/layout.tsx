@@ -3,8 +3,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'Skill Forge',
-  description: 'Created with v0',
-  generator: 'v0.dev',
+  description: 'A platform for skill development and learning. Join us to enhance your skills and knowledge.'  
 }
 
 export default function RootLayout({
